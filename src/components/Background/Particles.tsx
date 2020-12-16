@@ -7,7 +7,7 @@ const Background: React.FC = () => (
     <Particles
     id="tsparticles"
     width="100%"
-    height="3000px"
+    height="250vh"
     options={{
       background: {
         color: {

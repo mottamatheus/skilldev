@@ -9,7 +9,7 @@ export const Content = styled.div`
     color: #1A1A1A;
     background: url(${heroImage}) no-repeat 95%, url(${circleBackground}) no-repeat 95%;
     background-size: 710px;
-    height: 75vh;
+    height: 100vh;
 `;
 
 export const Paragraph = styled.div`

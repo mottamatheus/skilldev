@@ -27,8 +27,8 @@ export const Card = styled.div`
             align-items: center;
             width: 300px;
             background-color: #efebff;
-            height: 550px;
-            padding: 25px;
+            height:650px;
+            padding: 45px 25px;
             margin-right: 25px;
             border-radius: 15px;
             transition: all 0.2s ease;

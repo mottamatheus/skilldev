@@ -6,11 +6,11 @@ const HeroSection: React.FC = () => (
     <Content>
         <Paragraph >
             <div>
-                <h1>O poder do</h1>
-                <h1>trabalho em equipe</h1>
-                <p>A Soft Skill <span>mais importante</span> que uma
-                pessoa desenvolvedora precisa ter!</p>
-                <button>Me conta mais</button>
+                <h1>Seus projetos em</h1>
+                <h1>equipe metrificados</h1>
+                <p>A <span> SkillDev</span> gera KPIs únicas para avaliação
+                de performance de seus times de forma coesa.</p>
+                <button>Solicite uma demonstração</button>
             </div>
         </Paragraph>
     </Content>
