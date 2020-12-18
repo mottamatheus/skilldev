@@ -1,14 +1,13 @@
 import styled from 'styled-components';
-import circleBackground from '../../assets/Circle.svg';
-import heroImage from '../../assets/hero_section.png';
+// import circleBackground from '../../assets/Circle.svg';
+import heroImage from '../../assets/hero4.png';
 
 export const Content = styled.div`
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     color: #1A1A1A;
-    background: url(${heroImage}) no-repeat 95%, url(${circleBackground}) no-repeat 95%;
-    background-size: 710px;
+    background: url(${heroImage}) no-repeat 95%;
+    background-size: 55%;
     height: 100vh;
 `;
 

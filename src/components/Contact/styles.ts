@@ -45,7 +45,6 @@ export const Paragraph = styled.div`
 
             img {
                 max-width: 600px;
-                margin-right: 55px;
             }
 
             button {

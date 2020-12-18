@@ -2,11 +2,25 @@ import styled from 'styled-components';
 
 const Container = styled.div`
     position: absolute;
-    right: 25%;
+    margin: 0 auto;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    width: 1200px;
+    max-width: 1200px;
+
+
+    span {
+        font-size: 37px;
+        font-weight: 700;
+        color: #473E6E;
+    }
+
     ul {
         list-style: none;
         display: flex;
-        font-size: 22px;
+        font-size: 24px;
         align-items: center;
 
         li {

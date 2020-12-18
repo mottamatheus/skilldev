@@ -1,7 +1,7 @@
 /* eslint-disable max-len */
 import React from 'react';
 import { Paragraph, Content } from './styles';
-import aboutImage from '../../assets/about_image.png';
+import aboutImage from '../../assets/about.png';
 
 const About: React.FC = () => (
 
@@ -13,13 +13,9 @@ const About: React.FC = () => (
         </Paragraph>
         <Paragraph >
             <div>
-                <h2>O que é</h2>
-                <h2>trabalhar em equipe?</h2>
-                <p>Saber trabalhar em equipe é uma <a href="https://www.brighthr.com/articles/culture-and-performance/teamwork/the-importance-of-teamwork-in-the-workplace/">habilidade essencial</a> para qualquer pessoa desenvolvedora.</p>
-                <p>Requer humildade, boa comunicação, auto-conhecimento e comprometimento com os outros membros do time.</p>
-                <p>Cada dev tem sua função no projeto e deve estar disposto a cumpri-la, sabendo que sua  colaboração é importante para o resultado final!</p>
+                <h2>Relatórios personalizados</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus quam exercitationem quia, enim nam autem neque cum praesentium modi labore consequatur nemo ratione magni voluptatum, accusantium maxime rem possimus! Ipsam error maiores ad ullam maxime.</p>
             </div>
-
         </Paragraph>
     </Content>
 );
